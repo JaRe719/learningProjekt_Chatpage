@@ -1,2 +1,2 @@
 # learningProjekt_Chatpage
- to tearn Websocket communication between Spring Boot and React
+ to learn Websocket communication between Spring Boot and React
